@@ -1,0 +1,20 @@
+Steps to Create the Password Manager :
+Step 1: Create a react application by using this command
+
+npx create-react-app  password-manager-app
+Step 2: After creating your project folder, i.e. password-manager-app, use the following command to navigate to it:
+
+cd password-manager-app
+
+The updated dependencies in package.json file will look like:
+
+"dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+   "react-icons": "^4.11.0"
+    "web-vitals": "^2.1.4"
+}
